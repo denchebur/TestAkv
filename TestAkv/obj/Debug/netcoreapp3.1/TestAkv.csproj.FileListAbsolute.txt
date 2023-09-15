@@ -1,0 +1,13 @@
+E:\Универ\NET\TestAkv\TestAkv\bin\Debug\netcoreapp3.1\TestAkv.exe
+E:\Универ\NET\TestAkv\TestAkv\bin\Debug\netcoreapp3.1\TestAkv.deps.json
+E:\Универ\NET\TestAkv\TestAkv\bin\Debug\netcoreapp3.1\TestAkv.runtimeconfig.json
+E:\Универ\NET\TestAkv\TestAkv\bin\Debug\netcoreapp3.1\TestAkv.runtimeconfig.dev.json
+E:\Универ\NET\TestAkv\TestAkv\bin\Debug\netcoreapp3.1\TestAkv.dll
+E:\Универ\NET\TestAkv\TestAkv\bin\Debug\netcoreapp3.1\TestAkv.pdb
+E:\Универ\NET\TestAkv\TestAkv\obj\Debug\netcoreapp3.1\TestAkv.csprojAssemblyReference.cache
+E:\Универ\NET\TestAkv\TestAkv\obj\Debug\netcoreapp3.1\TestAkv.AssemblyInfoInputs.cache
+E:\Универ\NET\TestAkv\TestAkv\obj\Debug\netcoreapp3.1\TestAkv.AssemblyInfo.cs
+E:\Универ\NET\TestAkv\TestAkv\obj\Debug\netcoreapp3.1\TestAkv.csproj.CoreCompileInputs.cache
+E:\Универ\NET\TestAkv\TestAkv\obj\Debug\netcoreapp3.1\TestAkv.dll
+E:\Универ\NET\TestAkv\TestAkv\obj\Debug\netcoreapp3.1\TestAkv.pdb
+E:\Универ\NET\TestAkv\TestAkv\obj\Debug\netcoreapp3.1\TestAkv.genruntimeconfig.cache
